@@ -40,8 +40,8 @@ Will work with previous java version also.
 
 ## Authors
 
-* **Chloe Skillman** - *Game Creation* -              [Github](https://github.com/ChloeLS)
-                       *Sprite Design and creation*   [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
+* **Chloe Skillman** - *Game Creation* *Sprite Design and creation* [Github](https://github.com/ChloeLS)
+                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
 ## Acknowledgments
 
