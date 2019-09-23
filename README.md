@@ -35,6 +35,6 @@
 
 ## Acknowledgments
 
-* Would like to thank Michael Fairbank for hid guidance and coding ideas throughout the project. 
+* Would like to thank Michael Fairbank for his guidance and coding ideas throughout the project. 
 
 * Inspiration - Donkey Kong 1981 
