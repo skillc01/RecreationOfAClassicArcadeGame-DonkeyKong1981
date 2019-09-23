@@ -35,10 +35,10 @@ Will work with previous java version also.
 
 ![FullScreen](https://raw.githubusercontent.com/ChloeLS/Recreation-Of-A-Classic-Ardcade-Game---Donkey-Kong-1981/master/FullScreenDK.jpg)
 
-[Youtube Link](https://www.youtube.com/watch?v=EERrkelUlbo)
-[![LinkToGame](https://i.ytimg.com/vi/EERrkelUlbo/maxresdefault.jpg)](https://www.youtube.com/watch?v=EERrkelUlbo)
+[Youtube Link](https://www.youtube.com/watch?v=EERrkelUlbo) : https://www.youtube.com/watch?v=EERrkelUlbo
 
 Use of Jira
+
 ![JiraGraphs](https://raw.githubusercontent.com/ChloeLS/Recreation-Of-A-Classic-Ardcade-Game---Donkey-Kong-1981/master/UseOfJira.png)
 
 ## Authors
