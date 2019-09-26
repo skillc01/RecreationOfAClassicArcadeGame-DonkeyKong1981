@@ -48,6 +48,6 @@ Use of Jira
 
 ## Acknowledgments
 
-* Would like to thank Michael Fairbank for his guidance and coding ideas throughout the project. 
+* Would like to thank [Michael Fairbank](https://www.essex.ac.uk/people/fairb54300/michael-fairbank) for his guidance and coding ideas throughout the project. 
 
 * Inspiration - Donkey Kong 1981 
