@@ -26,6 +26,7 @@ Have eclipse, netbeans or IntelliJ installed on your machine and the files inclu
 Download eclipse, netbeans or IntelliJ as well as the src files here.
 Latest [Java](https://www.java.com/en/download/) can be downloaded here : https://www.java.com/en/download/
 Will work with previous java version also. 
+Install files found here and download the jar file. Double click the jar file to play the game. 
 
 ## Built With
 
