@@ -44,7 +44,7 @@ Use of Jira
 
 ## Authors
 
-* **Chloe Skillman** - *Game Creation* *Sprite Design and creation* [Github](https://github.com/ChloeLS)
+* **Chloe Skillman** - *Game Creation* *Sprite Design and creation* [Github](https://github.com/skillc01)
                           [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
 ## Acknowledgments
